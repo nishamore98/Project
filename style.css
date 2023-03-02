@@ -11,6 +11,7 @@ body {
   height: 60vh;
   border-radius: 2rem;
   box-shadow: 0 0 4px rgba(207, 206, 206, 0.978);
+  background-image: url('./projectSvg');
 }
 .header {
   width: 100%;
