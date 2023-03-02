@@ -5,13 +5,18 @@ body {
   justify-content: center;
   width: 100vw;
   height: 100vh;
+  background-image: url(./projectPng.png);
+  background-repeat: no-repeat;
+
+  background-size: cover;
 }
 .container {
-  width: 60vw;
-  height: 60vh;
+  background: white;
+  width: 50vw;
+  height: 50vh;
+  margin-bottom: 6rem;
   border-radius: 2rem;
   box-shadow: 0 0 4px rgba(207, 206, 206, 0.978);
-  background-image: url('./projectSvg');
 }
 .header {
   width: 100%;
