@@ -33,7 +33,7 @@ body {
   overflow-y: scroll;
   height: calc(100% - 15%);
 
-  max-height: calc(100% - 19%);
+  max-height: calc(100% - 22%);
   margin: 0.3rem;
 }
 .Emp-list::-webkit-scrollbar {
